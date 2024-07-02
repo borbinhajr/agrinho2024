@@ -1,0 +1,29 @@
+:root{
+
+    --branco-principal:#FFFFFF;
+    --cinza-principal:#C0C0C0;
+    --botao-azul:#167bf7;
+    --cor-de-fundo:#00030C;
+    --fonte-principal:'Inter'
+    
+    }
+    body{
+    
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    
+    }
+    
+    .escola-texto-um{
+
+        font-size: 30px;
+    }
+
+
+    .cabeçalho-lista-item{
+
+        font-size: 20px;
+    }
