@@ -16,10 +16,17 @@
     font-weight: 400;
     
     }
+
+    .escola-titulo{
+
+        font-size: 70px;
+
+
+    }
     
     .escola-texto-um{
 
-        font-size: 30px;
+        font-size: 70px;
     }
 
 
@@ -27,3 +34,7 @@
 
         font-size: 20px;
     }
+
+
+
+
